@@ -7,7 +7,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...Golang
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...support@iowk.com
+- 📫 How to reach me@main:support@iowk.com
 
 <!---
 cxping/cxping is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
