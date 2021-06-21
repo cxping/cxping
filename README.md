@@ -1,19 +1,19 @@
 
 ### Hi there 👋  
 
-![](https://komarev.com/ghpvc/?username=axping&color=green)
+![](https://komarev.com/ghpvc/?username=cxping&color=green)
 
-- 👋 Hi, I’m @axping
+- 👋 Hi, I’m @
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Java,Go
+- 🌱 I’m currently learning ...Golang
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...support@iowk.com
 
 <!---
-axping/axping is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cxping/cxping is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 
 
-![whyour's github stats](https://github-readme-stats.vercel.app/api?username=axping&count_private=true&show_icons=true)
+![whyour's github stats](https://github-readme-stats.vercel.app/api?username=cxping&count_private=true&show_icons=true)
