@@ -3,10 +3,10 @@
 
 ![](https://komarev.com/ghpvc/?username=cxping&color=green)
 
-- 👋 Hi, I’m @
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Golang
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @·
+- 👀 I’m interested in   golang
+- 🌱我目前正在学习...Rust 
+- 💞️ 我正在寻找合作...
 - 📫 How to reach me@main:support@iowk.com
 
 <!---
