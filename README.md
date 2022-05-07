@@ -7,7 +7,7 @@
 - 👀 I’m interested in   golang
 - 🌱我目前正在学习...Rust 
 - 💞️ 我正在寻找合作...
-- 📫 How to reach me@main:support@iowk.com
+- 📫 How to reach me@main:chping@iowk.com
 
 <!---
 cxping/cxping is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
