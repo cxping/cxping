@@ -3,8 +3,8 @@
 
 ![](https://komarev.com/ghpvc/?username=cxping&color=green)
 
-- 👋 Hi, I’m @·
-- 👀 I’m interested in   golang
+- 👋 Hi, I’m @chping
+- 👀 I’m interested in   Rust
 - 🌱我目前正在学习...Rust 
 - 💞️ 我正在寻找合作...
 - 📫 How to reach me@main:chping@iowk.com
